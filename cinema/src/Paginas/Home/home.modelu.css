@@ -1,0 +1,28 @@
+div{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    align-items: center;
+    background-color: azure;
+}
+
+img{
+    border: solid 10px palegreen;
+}
+
+h1:hover{
+    color: palegreen;
+}
+
+h2{
+    width: 40%;
+}
+
+.inputBusca {
+    width: 40%;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
